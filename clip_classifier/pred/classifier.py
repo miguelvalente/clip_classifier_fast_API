@@ -1,6 +1,5 @@
 import clip
 import torch
-from PIL import Image
 
 
 def init_model():
