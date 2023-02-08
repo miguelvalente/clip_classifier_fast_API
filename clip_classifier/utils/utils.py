@@ -26,5 +26,5 @@ def read_raw_image(image_bytes):
 
 def expand_list(labels):
     if len(labels) == 1:
-        labels = labels[0].split(',')
+        labels = labels[0].split(",")
     return labels
